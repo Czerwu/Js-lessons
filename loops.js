@@ -3,6 +3,12 @@ for (let i = 1; i <= 30; i++) {
     console.log(i);
 }
 
+// const arr = Array.from({length:30}, (_,i) => i+1)
+// 
+// for (const el of arr) {
+//   console.log(el)
+// }
+
 
 let i = 1;
 while (i <= 30) {
