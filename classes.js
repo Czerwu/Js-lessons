@@ -24,7 +24,7 @@ class Monster extends Character {
     }
 }
 
-// Przykladowe uzycie:
+
 const hero = new Hero("Wojownik", 100, ["Miecz", "Magia"]);
 const monster = new Monster("Smok", 80);
 
