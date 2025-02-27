@@ -33,7 +33,7 @@ class Monster {
 }
 
 
-const hero = new Hero("Wojownik", 100, ["Miecz"]);
+const hero = new Hero("Wojownik", 100, ["Miecz", "Maiga"]);
 const monster = new Monster("Smok", 80);
 
 hero.atak(monster);
