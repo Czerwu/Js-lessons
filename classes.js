@@ -58,12 +58,3 @@ hero.atak(monster);
 monster.atak(hero);
 leczenie.uzyj(hero);
 kulaOgnia.uzyj(monster);
-
-
-
-
-
-
-
-
-
