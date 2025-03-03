@@ -1,8 +1,4 @@
-// String -> "Imie"
-// number -> 5
-// boolean -> true / false
-// undefined -> undefined
-// null -> null
+
 
 function dodaj(a, b) {
     return a + b;
