@@ -1,7 +1,3 @@
-
-
-
-
 const tablica = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 const osoba = {
@@ -34,3 +30,15 @@ function sortujMalejaco(tablica) {
 console.log(wiekszeNiz5(tablica)); 
 console.log(pomnozPrzezDwa(tablica)); 
 console.log(sortujMalejaco(tablica)); 
+
+
+const arr = [1, 2, 3]
+arr.push(4)
+console.log(arr)
+arr.pop()
+console.log(arr)
+arr.shift()
+console.log(arr)
+arr.unshift(5)
+console.log(arr)
+
